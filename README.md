@@ -6,7 +6,7 @@ A PKGBUILD to install [i3-tools](https://github.com/vincentsavard/i3-tools).
 
 ```console
 $ wget https://raw.githubusercontent.com/vincentsavard/i3-tools-pkgbuild/main/PKGBUILD
-$ makepkg -Scri
+$ makepkg -scri
 ```
 
 ## License
