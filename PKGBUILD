@@ -1,5 +1,5 @@
 pkgname=i3-tools
-pkgver=0.2.0
+pkgver=0.2.1
 pkgrel=1
 pkgdesc="Tools for the i3 window manager"
 arch=('x86_64')
